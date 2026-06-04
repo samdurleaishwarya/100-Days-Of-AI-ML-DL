@@ -6,7 +6,7 @@
 
 ### 🎯 Goal: Google ML Engineer 
 
-### 📅 Day 1 - 6 Oct 2026
+### 📅 Day 1 - 4 jan 2026
 **Today's Win:**
 1. Created LinkedIn Profile 
 2. Created GitHub & Started 100 Days Challenge
